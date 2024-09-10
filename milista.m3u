@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="CD Cd Aut Bs As",TN Todo Noticias YT - CTV - CABA TV Cable - CD Cd Aut Bs As
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0061
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="General",El Trece (1080p)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Undefined",Telefe (720p) [Geo-blocked]
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+
+#EXTINF:-1tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Undefined",Canal 9
+https://usher.ttvnw.net/api/channel/hls/elnueve_ok.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNDJiYWY4ODMtNDQyMC00ZjUxLThiNTItMjg5YTUxMjhlMDk5In0%3D&allow_source=true&browser_family=chrome&browser_version=128.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=9165406&platform=web&play_session_id=06aa658972c56a58dfe052b1ee6ebd46&player_backend=mediaplayer&player_version=1.32.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=a82b90235316ed50ce4fa3292f5472b6a68fa43c&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22elnueve_ok%22%2C%22channel_id%22%3A1078801482%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22rBAVDHnxrb3Ti6rwEtWKl1xZ5Ui4tcFD%22%2C%22expires%22%3A1726005083%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2245.232.206.1%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+
+#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" group-title="Argentina",Crónica TV Ⓨ
+https://www.youtube.com/c/cronicatv/live
+
+#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="Argentina",C5N Ⓨ
+https://www.youtube.com/c/c5n/live
+
+#EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar" group-title="Argentina",LN+ Ⓨ
+https://www.youtube.com/c/LaNacionMas/live
+
+#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="Argentina",América Ⓨ
+https://www.youtube.com/c/americaenvivo/live
+
+#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="Argentina",A24 Ⓨ
+https://www.youtube.com/c/A24com/live
+
+#EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://i.imgur.com/tBdgllD.png" tvg-id="ABCTV.py" group-title="Paraguay",ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1 tvg-name="TYC-sports" tvg-logo="https://i.imgur.com/tBdgllD.png" tvg-id="ABCTV.py" group-title="TYC-sports",TYC-sports
+https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
