@@ -1,17 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="CD Cd Aut Bs As",TN Todo Noticias YT - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png",TN Todo Noticias
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0061
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="General",El Trece (1080p)
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Undefined",Telefe (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 
-#EXTINF:-1tvg-id="Telefe.ar" group-title="Undefined",Canal 9
+#EXTINF:-1tvg-id="Canal9" ,Canal 9
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokGuNBeXH1Uh071ocyX7QadUSx3ZVuF4PJjcc7E3Fs_HEKRzCr8SN_3ULGVFzOzlJn_TKN8eDkg95L3YEnC5jA9OzgFfsq-Qg9BL81x93x9DfEuCb_cI_AN5Cj8wsWEVr5OQF6P9e46VHW6PMzPKQzPtBq2A1UNSEmO7COax0aewmAOWtn_Zvb2UuAkVB21JUliGAZO-oFkn55BgW3KVQan8Nfwb_DqCRhCF2ZcYi9aRS_fAdhzyG1p3gkPdTAO021fE2rczIJV09mKUG66Fwwq3DQIyAdMCPs62-VXKfhwjrUhK9sPdm9C4yr9kWBgb0UYY2BtXX-RMf0zCrk9pa74vUGx13pHUNjXwIifNEMkCig_KX7Yvyl325G-3dgpZmanuds5McVWSZfJE8kRSfZkBBW3kRi_-veRlMnsS3p8AYhDzwLXdlLCiwlOdfQrksEka0VbzgdrcDbloO72HijLwrx4RmnRiu--lL29GBn_cvRdflkS75ngrP2eXTUvsugr2y-Cb_j9bXdfQd3R0gZBVMZh3DjCvvxILIZ2C2hdad0YBK2RLwAbg_pJtCzZGxld-LnAfZZgH0TT4OjGkjDzv0T5KHQEhvCjaHGh7n0ny9Q7dMmPo81_rk14e3YYeEU-bO2FueBeNY4Je1wSmSx-CqcaWolbwWC1aJjQ6p_bd3ZJmYzylbTGFxfFL6-42hlGFtrzjtaCsPf5k1Kc6mikSnIwEg_jHxGdfusZzl5XyDtWd8t8b2sOT2bxfAEU_YXpdEHzuO2CejfrRFt8fhDYXSWp_OfzHsc3OSG_4wDn09pm5exOgli-yrr6akgdqNccn-CzUlVd0bAfB7vpo4WEo5LyTDxUOOpOb_PY0o8i31szHqOpqFDANnvDrgP3lyQVpbD9emaO22XeX-cIZe8Z05VgfIL6oUpdUHu3nYHPNittGN_ooidN0CUs_I9qOyQkpY8zxLNbMD_jTG1dtdN6VZ1ER9wuRGCjcef9O5EEX3d5kr07AHHWACZ-4NzeO3iJzyZtFW7tEPN5Ggy_Seh60wBbhGzre1kgASoJdXMtZWFzdC0xMOMI.m3u8
-#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" group-title="Argentina",Crónica TV Ⓨ
+
+#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar",Crónica TV Ⓨ
 https://www.youtube.com/c/cronicatv/live
 
 #EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="Argentina",C5N Ⓨ
