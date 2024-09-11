@@ -35,3 +35,6 @@ https://cdn8.en-vivo.info/hotflix/tycsports/index.m3u8?token=6e00be8426ed06d2e6e
 
 #EXTINF:-1 tvg-name="ESPN" tvg-id="ESPN",ESPN
 https://vals88.pricesaskeloadsc.com/global/espn_premium/index.m3u8?token=2258dbff7aaf6c5d34f4f6c435ff8b186bdf70c8-24-1726055701-1726019701
+
+#EXTINF:-1 tvg-name="Canal 26" tvg-id="Canal 26",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
