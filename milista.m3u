@@ -12,22 +12,13 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1tvg-id="Canal9" ,Canal 9
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokGuNBeXH1Uh071ocyX7QadUSx3ZVuF4PJjcc7E3Fs_HEKRzCr8SN_3ULGVFzOzlJn_TKN8eDkg95L3YEnC5jA9OzgFfsq-Qg9BL81x93x9DfEuCb_cI_AN5Cj8wsWEVr5OQF6P9e46VHW6PMzPKQzPtBq2A1UNSEmO7COax0aewmAOWtn_Zvb2UuAkVB21JUliGAZO-oFkn55BgW3KVQan8Nfwb_DqCRhCF2ZcYi9aRS_fAdhzyG1p3gkPdTAO021fE2rczIJV09mKUG66Fwwq3DQIyAdMCPs62-VXKfhwjrUhK9sPdm9C4yr9kWBgb0UYY2BtXX-RMf0zCrk9pa74vUGx13pHUNjXwIifNEMkCig_KX7Yvyl325G-3dgpZmanuds5McVWSZfJE8kRSfZkBBW3kRi_-veRlMnsS3p8AYhDzwLXdlLCiwlOdfQrksEka0VbzgdrcDbloO72HijLwrx4RmnRiu--lL29GBn_cvRdflkS75ngrP2eXTUvsugr2y-Cb_j9bXdfQd3R0gZBVMZh3DjCvvxILIZ2C2hdad0YBK2RLwAbg_pJtCzZGxld-LnAfZZgH0TT4OjGkjDzv0T5KHQEhvCjaHGh7n0ny9Q7dMmPo81_rk14e3YYeEU-bO2FueBeNY4Je1wSmSx-CqcaWolbwWC1aJjQ6p_bd3ZJmYzylbTGFxfFL6-42hlGFtrzjtaCsPf5k1Kc6mikSnIwEg_jHxGdfusZzl5XyDtWd8t8b2sOT2bxfAEU_YXpdEHzuO2CejfrRFt8fhDYXSWp_OfzHsc3OSG_4wDn09pm5exOgli-yrr6akgdqNccn-CzUlVd0bAfB7vpo4WEo5LyTDxUOOpOb_PY0o8i31szHqOpqFDANnvDrgP3lyQVpbD9emaO22XeX-cIZe8Z05VgfIL6oUpdUHu3nYHPNittGN_ooidN0CUs_I9qOyQkpY8zxLNbMD_jTG1dtdN6VZ1ER9wuRGCjcef9O5EEX3d5kr07AHHWACZ-4NzeO3iJzyZtFW7tEPN5Ggy_Seh60wBbhGzre1kgASoJdXMtZWFzdC0xMOMI.m3u8
 
-#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar",Crónica TV Ⓨ
-https://www.youtube.com/c/cronicatv/live
+#EXTINF:-1,TELEFE
+http://coninfo.net:1935/13max/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" group-title="Argentina",C5N Ⓨ
-https://www.youtube.com/c/c5n/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OBLO4Ac.png",Canal 9
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar" group-title="Argentina",LN+ Ⓨ
-https://www.youtube.com/c/LaNacionMas/live
-
-#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="Argentina",América Ⓨ
-https://www.youtube.com/c/americaenvivo/live
-
-#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="Argentina",A24 Ⓨ
-https://www.youtube.com/c/A24com/live
-
-#EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://i.imgur.com/tBdgllD.png" tvg-id="ABCTV.py" group-title="Paraguay",ABC TV
+#EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://i.imgur.com/tBdgllD.png" tvg-id="ABCTV.py",ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
 #EXTINF:-1 tvg-name="TyCSports" tvg-id="TyCSports",TyCSports
