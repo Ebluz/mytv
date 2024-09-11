@@ -28,3 +28,6 @@ https://www.youtube.com/c/A24com/live
 
 #EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://i.imgur.com/tBdgllD.png" tvg-id="ABCTV.py" group-title="Paraguay",ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1 tvg-name="TyCSports" tvg-id="TyCSports",TyCSports
+https://cdn8.en-vivo.info/hotflix/tycsports/index.m3u8?token=6e00be8426ed06d2e6e0a57eb5596a331a99d302-8e1bb3745b61e15072700a86368785e5-1726030925-1726020125&remote=45.232.206.1
