@@ -31,3 +31,6 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 
 #EXTINF:-1 tvg-name="TyCSports" tvg-id="TyCSports",TyCSports
 https://cdn8.en-vivo.info/hotflix/tycsports/index.m3u8?token=6e00be8426ed06d2e6e0a57eb5596a331a99d302-8e1bb3745b61e15072700a86368785e5-1726030925-1726020125&remote=45.232.206.1
+
+#EXTINF:-1 tvg-name="ESPN" tvg-id="ESPN",ESPN
+https://vals88.pricesaskeloadsc.com/global/espn_premium/index.m3u8?token=2258dbff7aaf6c5d34f4f6c435ff8b186bdf70c8-24-1726055701-1726019701
